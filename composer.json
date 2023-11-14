@@ -1,0 +1,17 @@
+{
+    "name": "joang/my-unsplash-master",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Clases\\":"./clases"
+        }
+    },
+    "authors": [
+        {
+            "name": "joangael"
+        }
+    ],
+    "require": {}
+}
